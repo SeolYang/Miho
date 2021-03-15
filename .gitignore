@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Additionals
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.tlog
+*.log
+*.recipe
+*.pdb
+*.ilk
+*.ipch
+*.ipdb
+*.iobj
+Projects/.vs
+Builds/Intermediate
